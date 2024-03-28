@@ -1,0 +1,14 @@
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\IBE UCHECHI GREAT\Desktop\modular development\Class Assignments\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
